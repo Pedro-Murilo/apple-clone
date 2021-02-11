@@ -251,7 +251,7 @@ a {
     font-size: 24px;
     font-weight: 400;
     text-align: center;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
   }
 
   p {
@@ -319,7 +319,7 @@ a {
     font-size: 24px;
     font-weight: 400;
     text-align: center;
-    letter-spacing: -2px;
+    letter-spacing: -1px;
   }
 
   p {
@@ -349,5 +349,94 @@ a {
 
   h3 {
     font-size: 18px !important;
+  }
+}
+
+.products {
+  width: 100%;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.watch {
+  height: 100%;
+  margin: 0 5px;
+  padding-top: 30px;
+  flex: 1 1 380px;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  h1 {
+    height: 100px;
+    background-image: url("../img/fig_watch.png");
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position: center center;
+    margin: 5px 0;
+  }
+
+  h3 {
+    color: $black1;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: -1px;
+  }
+
+  p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+  }
+
+  img {
+    width: 50%;
+  }
+}
+
+.airpods {
+  flex: 1 1 380px;
+  height: 100%;
+  margin: 0 5px;
+  padding-top: 30px;
+  background-color: #000;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  h1 {
+    color: $white1;
+    font-size: 36px;
+    text-align: center;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: -1px;
+  }
+
+  h3 {
+    color: $white1;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: -1px;
+  }
+
+  p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+  }
+
+  img {
+    width: 50%;
   }
 }
