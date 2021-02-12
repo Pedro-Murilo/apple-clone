@@ -1,6 +1,5 @@
 <h1 align="center"><strong>Apple Clone 🍎 </strong></h1> 
 
----
 <p align="center">
 <a href="https://reactjs.org/">
   <img alt="Made with ReactJS" src="https://img.shields.io/badge/Made_with-SASS.js-000?style=for-the-badge&logo=sass" />
