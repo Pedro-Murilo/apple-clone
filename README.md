@@ -1,8 +1,8 @@
 <h1 align="center"><strong>Apple Clone 🍎 </strong></h1> 
 
 <p align="center">
-<a href="https://reactjs.org/">
-  <img alt="Made with ReactJS" src="https://img.shields.io/badge/Made_with-SASS.js-000?style=for-the-badge&logo=sass" />
+<a href="https://sass-lang.com/">
+  <img alt="Made with SASS" src="https://img.shields.io/badge/Made_with-SASS-000?style=for-the-badge&logo=sass" />
 </a>
 
   <img alt="Repo Size" src="https://img.shields.io/github/repo-size/pedro-murilo/apple-clone?color=000&style=for-the-badge">
